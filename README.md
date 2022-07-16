@@ -7,7 +7,7 @@ The goal is to understand A\B testing to help the company understand if they sho
 # Results
 There was no sufficient evidence found to suggest that the new page converts better than the old one.
 
-#Tools
+# Tools
 
 - Python (Numpy, Pandas, matplotlib, statsmodels)
 - Jupyter Notebook
